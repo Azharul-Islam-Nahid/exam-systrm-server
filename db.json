@@ -1,0 +1,304 @@
+{
+  "admin": [
+    {
+      "admin_name": "admin",
+      "admin_password": "1234",
+      "id": "576a"
+    }
+  ],
+  "subject": [
+    {
+      "subject_name": "Maths",
+      "id": "1"
+    }
+  ],
+  "Exam": [
+    {
+      "id": "1",
+      "exam_name": "Maths",
+      "exam_desc": "This is Math Exam",
+      "exam_date": "17-9-2021 17:49:39",
+      "exam_marks": "20",
+      "exam_totalQuestion": "20",
+      "exam_passMarks": "7",
+      "exam_level": "Easy"
+    }
+  ],
+  "question": [
+    {
+      "id": "1",
+      "question_name": "10 - 5 = ?",
+      "option_one": "3",
+      "option_two": "1",
+      "option_three": "2",
+      "option_four": "5",
+      "question_answer": "5",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "2",
+      "question_name": "10 + 5 = ?",
+      "option_one": "3",
+      "option_two": "1",
+      "option_three": "4",
+      "option_four": "15",
+      "question_answer": "15",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "3",
+      "question_name": "10 * 5 = ?",
+      "option_one": "10",
+      "option_two": "5",
+      "option_three": "50",
+      "option_four": "2",
+      "question_answer": "50",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "4",
+      "question_name": "110 - 10 = ?",
+      "option_one": "110",
+      "option_two": "100",
+      "option_three": "10",
+      "option_four": "1",
+      "question_answer": "100",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "5",
+      "question_name": "10 / 2 = ?",
+      "option_one": "1",
+      "option_two": "5",
+      "option_three": "10",
+      "option_four": "7",
+      "question_answer": "5",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "6",
+      "question_name": "What is 15% of 200?",
+      "option_one": "30",
+      "option_two": "25",
+      "option_three": "35",
+      "option_four": "20",
+      "question_answer": "30",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "7",
+      "question_name": "What is 2^3?",
+      "option_one": "8",
+      "option_two": "4",
+      "option_three": "2",
+      "option_four": "16",
+      "question_answer": "8",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "8",
+      "question_name": "Solve: 3x + 5 = 20.",
+      "option_one": "5",
+      "option_two": "15",
+      "option_three": "10",
+      "option_four": "20",
+      "question_answer": "5",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "9",
+      "question_name": "What is the area of a rectangle with length 5 and width 4?",
+      "option_one": "20",
+      "option_two": "10",
+      "option_three": "15",
+      "option_four": "25",
+      "question_answer": "20",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "10",
+      "question_name": "What is the next prime number after 5?",
+      "option_one": "6",
+      "option_two": "7",
+      "option_three": "8",
+      "option_four": "9",
+      "question_answer": "7",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "11",
+      "question_name": "What is the sum of angles in a triangle?",
+      "option_one": "90 degrees",
+      "option_two": "180 degrees",
+      "option_three": "360 degrees",
+      "option_four": "270 degrees",
+      "question_answer": "180 degrees",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "12",
+      "question_name": "What is 100 divided by 4?",
+      "option_one": "25",
+      "option_two": "20",
+      "option_three": "15",
+      "option_four": "30",
+      "question_answer": "25",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "13",
+      "question_name": "If a triangle has sides of length 3, 4, and 5, what type of triangle is it?",
+      "option_one": "Scalene",
+      "option_two": "Isosceles",
+      "option_three": "Equilateral",
+      "option_four": "Right",
+      "question_answer": "Right",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "14",
+      "question_name": "What is the value of pi?",
+      "option_one": "3.14",
+      "option_two": "3.41",
+      "option_three": "3.15",
+      "option_four": "3.00",
+      "question_answer": "3.14",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "15",
+      "question_name": "What is the square root of 64?",
+      "option_one": "6",
+      "option_two": "8",
+      "option_three": "7",
+      "option_four": "9",
+      "question_answer": "8",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "16",
+      "question_name": "If x + 3 = 10, what is x?",
+      "option_one": "7",
+      "option_two": "6",
+      "option_three": "5",
+      "option_four": "4",
+      "question_answer": "7",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "17",
+      "question_name": "What is 5! (5 factorial)?",
+      "option_one": "120",
+      "option_two": "100",
+      "option_three": "150",
+      "option_four": "130",
+      "question_answer": "120",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "18",
+      "question_name": "What is the volume of a cube with side length 3?",
+      "option_one": "27",
+      "option_two": "9",
+      "option_three": "18",
+      "option_four": "12",
+      "question_answer": "27",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "19",
+      "question_name": "What is the Pythagorean theorem?",
+      "option_one": "a^2 + b^2 = c^2",
+      "option_two": "a + b = c",
+      "option_three": "a - b = c",
+      "option_four": "a * b = c",
+      "question_answer": "a^2 + b^2 = c^2",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    },
+    {
+      "id": "20",
+      "question_name": "What is the probability of rolling a 3 on a standard die?",
+      "option_one": "1/6",
+      "option_two": "1/3",
+      "option_three": "1/2",
+      "option_four": "1/4",
+      "question_answer": "1/6",
+      "exam_id": "1",
+      "subject_name": "Maths"
+    }
+  ],
+  "result": [
+    {
+      "id": "b653",
+      "result_status": "Pass",
+      "result_score": 16,
+      "user_email": "nahid@gmail.com",
+      "exam_date": "21-10-2024 1:1:54",
+      "exam_name": "Maths",
+      "total_marks": "20",
+      "exam_id": "1",
+      "total_Question": "20"
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 9,
+      "user_email": "nahid@gmail.com",
+      "exam_date": "22-10-2024 2:5:0",
+      "exam_name": "Maths",
+      "total_marks": "20",
+      "exam_id": "1",
+      "total_Question": "20"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "user_name": "nahid",
+      "user_email": "nahid@gmail.com",
+      "user_password": "1111"
+    },
+    {
+      "id": "2",
+      "user_name": "jhumu",
+      "user_email": "jhumu@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "user_name": "arif",
+      "user_email": "arif@gmail.com",
+      "user_password": "123",
+      "id": "3"
+    },
+    {
+      "user_name": "ridoy",
+      "user_email": "ridoy@gmail.com",
+      "user_password": "123",
+      "id": "4"
+    },
+    {
+      "id": "6cff",
+      "user_name": "mahin",
+      "user_email": "mahin@gmail.com",
+      "user_password": "1234"
+    }
+  ]
+}
