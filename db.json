@@ -17,7 +17,7 @@
       "id": "1",
       "exam_name": "Maths",
       "exam_desc": "This is Math Exam",
-      "exam_date": "17-9-2021 17:49:39",
+      "exam_date": "17-9-2024 17:49:39",
       "exam_marks": "20",
       "exam_totalQuestion": "20",
       "exam_passMarks": "7",
@@ -25,17 +25,6 @@
     }
   ],
   "question": [
-    {
-      "id": "1",
-      "question_name": "10 - 5 = ?",
-      "option_one": "3",
-      "option_two": "1",
-      "option_three": "2",
-      "option_four": "5",
-      "question_answer": "5",
-      "exam_id": "1",
-      "subject_name": "Maths"
-    },
     {
       "id": "2",
       "question_name": "10 + 5 = ?",
@@ -244,6 +233,17 @@
       "question_answer": "1/6",
       "exam_id": "1",
       "subject_name": "Maths"
+    },
+    {
+      "id": "1729629866364",
+      "question_name": "What is 222+111 ?",
+      "option_one": "111",
+      "option_two": "333",
+      "option_three": "222",
+      "option_four": "444",
+      "question_answer": "333",
+      "exam_id": "1",
+      "subject_name": "Math"
     }
   ],
   "result": [
@@ -298,6 +298,11 @@
       "id": "6cff",
       "user_name": "mahin",
       "user_email": "mahin@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "user_name": "Fakihatul Jannat",
+      "user_email": "fakihatuljannat@gmail.com",
       "user_password": "1234"
     }
   ]
